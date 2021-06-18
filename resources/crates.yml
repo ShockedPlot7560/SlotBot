@@ -1,0 +1,16 @@
+crate:
+  drops:
+    - id: 278
+      meta: 0
+      amount: 1
+      name: "Telepathic Pickaxe"
+      lore: "Items mined are transported into your inventory"
+    - id: 49
+      meta: 0
+      amount: 32
+    - id: 466
+      meta: 0
+      amount: 16
+    - id: 7
+      meta: 0
+      amount: 5

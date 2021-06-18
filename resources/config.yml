@@ -1,0 +1,18 @@
+keys:
+  id: 339
+  meta: 0
+  name: "SlotBot Key"
+  lore: "Claim rewards from a SlotBot crates"
+start:
+  id: 378
+  meta: 0
+  name: "§l§aSPIN"
+  lore: "Click to start the box\nYear !"
+restart:
+  id: 347
+  meta: 0
+  name: "§l§6RESTART"
+  lore: "Click to restart a box\nYear !"
+crates:
+  roulette:
+    duration: 30
